@@ -1,5 +1,5 @@
 # teach-assist
-Teach Assist was a submission for IIT-Bombay Automathon held for the IIT-Bombay Techfest , Our team got selected to the final round with this idea but due to covid the competition wasn't continued further .
+Teach Assist was a submission for the national level hackathon -IIT-Bombay Automathon held for the IIT-Bombay Techfest , Our team got selected to the final round and ended up getting Second Place .
 Includes :1)Abstract 📑   2)Demo Video ⏯️ 3) Source Code 🔯
 
 ![image](https://user-images.githubusercontent.com/69594137/163586680-c2cae064-9ad2-48fc-aeb3-b8c0480fd60d.png)
